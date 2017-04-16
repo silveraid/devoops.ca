@@ -1,0 +1,10 @@
+---
+baseURL: "http://www.devoops.ca/"
+languageCode: "en-us"
+title: "My New Hugo Site"
+
+theme: "hugo-uno"
+
+# GitHub Pages
+publishDir: "docs"
+

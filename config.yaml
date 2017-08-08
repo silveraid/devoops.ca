@@ -1,5 +1,5 @@
 ---
-baseURL: "http://www.devoops.ca/"
+baseURL: "https://www.devoops.ca"
 languageCode: "en-us"
 title: "My New Hugo Site"
 

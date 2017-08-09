@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>My New Hugo Site on My New Hugo Site </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
+    <title>My New Hugo Site</title>
     <link>https://www.devoops.ca/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
+	<atom:link href="https://www.devoops.ca/index.xml" rel="self" type="application/rss+xml" />
     
-    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
-    
-    <item>
-      <title></title>
-      <link>https://www.devoops.ca/post/welcome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      
-      <guid>https://www.devoops.ca/post/welcome/</guid>
-      <description>&lt;p&gt;First test post bro!&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

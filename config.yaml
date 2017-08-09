@@ -3,8 +3,16 @@ baseURL: "https://www.devoops.ca"
 languageCode: "en-us"
 title: "My New Hugo Site"
 
-theme: "hugo-uno"
+theme: "hugo-nuo"
 
 # GitHub Pages
 publishDir: "docs"
+
+# Pagination
+paginate:                   10
+paginatePath:               "page"
+
+taxonomies:
+  - category:               "categories"
+  - tag:                    "tags"
 

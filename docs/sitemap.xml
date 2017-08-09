@@ -3,12 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.devoops.ca/post/welcome/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.devoops.ca/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://www.devoops.ca/tags/development/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.devoops.ca/categories/development/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.devoops.ca/tags/golang/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.devoops.ca/categories/golang/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.devoops.ca/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.devoops.ca/post/</loc>
     <priority>0</priority>
   </url>
   
